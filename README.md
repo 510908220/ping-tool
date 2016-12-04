@@ -1,2 +1,2 @@
-# web-ping-monitor
-提供一个web界面,检测主机是否在线. 
+# ping-monitor
+检测主机是否在线,不在线就发邮件告警.
